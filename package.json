@@ -39,7 +39,7 @@
     "xml-stream": "latest",
     "node-expat": "latest",
     "walk": "~2.2.1",
-    "burst-trie": "~0.1.0",
+    "burst-trie": "https://github.com/arieljake/burst-trie/tarball/e5fe0c36b6b4cef1a1c3e18b17a88273599b03b7",
     "robots": "~0.9.4",
     "request": "latest",
     "minimist": "latest",
